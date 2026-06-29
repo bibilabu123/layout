@@ -1,0 +1,5 @@
+data/layout-inventory-data.json
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
